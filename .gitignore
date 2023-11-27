@@ -1,2 +1,8 @@
 *.noi
 *.o
+*.map
+*.ihx
+*.sav
+*.sym
+*.lst
+*.gb
